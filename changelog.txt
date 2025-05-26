@@ -1,0 +1,32 @@
+**25_05_25**
+add lvl-up system, dodging system, defence system
+
+**25_05_25_v2**
+fix game doesn't load from save file
+
+**25_05_25_v2.1**
+fix dodging system
+
+**25_05_25_v2.2**
+stronger monsters in the following rooms
+
+**25_05_25_v2.3**
+show battle status ,show player status through 'i' or 'I'
+
+**25_05_25_v2.4**
+show better battle moment
+
+**25_05_25_v2.5**
+fix monster scaling and dodging system
+
+**26_05_25_v2.6**
+defeated monsters give out +1 stat in everything
+more boost items
+fix lvl up system
+if chest and monster in one room. defeat the monster first
+
+**25_05_25_v2.7**
+add random bit pattern
+
+**25_05_25_v2.8**
+bit of typo cleaning
